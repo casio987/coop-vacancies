@@ -1,5 +1,5 @@
 # coop-vacancies
-================
+----------------
 
 coop-vacancies is a shell script that notifies you via email if the specified field has an open coop vacancy.
 
